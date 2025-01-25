@@ -1,3 +1,6 @@
+#Link tic-tac-toe-aritra-nanda-43.vercel.app
+
+
 TicTocToe is a classic two-player game where players take turns marking spaces on a 3x3 grid, aiming to align three of their marks horizontally, vertically, or diagonally.
 
 Features:
@@ -17,7 +20,7 @@ Clone the Repository:
 
 bash
 Copy code
-git clone https://github.com/Tanaynaik07/TicTocToe.git
+git clone https://github.com/AritraNanda/tic-tac-toe.git
 Navigate to the Project Directory:
 
 bash
@@ -37,7 +40,8 @@ Open http://localhost:3000 in your browser to play the game.
 
 Deployment:
 
-The TicTocToe game is deployed and accessible at https://tic-toc-toe-nine.vercel.app.
+The TicTocToe game is deployed and accessible at tic-tac-toe-aritra-nanda-43.vercel.app
+
 
 Contributing:
 
