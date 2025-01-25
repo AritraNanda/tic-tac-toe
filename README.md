@@ -1,4 +1,4 @@
-#Link https//:tic-tac-toe-aritra-nanda-43.vercel.app
+#Link https://tic-tac-toe-aritra-nanda-43.vercel.app/
 
 
 TicTocToe is a classic two-player game where players take turns marking spaces on a 3x3 grid, aiming to align three of their marks horizontally, vertically, or diagonally.
